@@ -1,0 +1,14 @@
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.exe
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.deps.json
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.runtimeconfig.json
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.dll
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.pdb
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfoInputs.cache
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfo.cs
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.csproj.CoreCompileInputs.cache
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.dll
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\refint\DoorMachine.dll
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.pdb
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.genruntimeconfig.cache
+C:\KPL\tpmodul4_103022300042\DoorMachine\DoorMachine\obj\Debug\net8.0\ref\DoorMachine.dll
